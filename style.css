@@ -1,25 +1,13 @@
-h1{
-    color:black;
-}
-label{
-    color:rgb(201, 90, 90);
+.first{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    
+    color: blue;
 }
 a{
-    text-decoration: none;
-    cursor:grab;
+    color:white;
 }
-#first{
-    color:red;
-}
-.second{
-    color:green;
-}
-.box{
-    color:red;
-    width:200px;
-    height:200px;
-    border: 2px  dashed black;
-    display :flex;
-    justify-content:center;
-    align-items:center;
+#second{
+    color:white;
 }
